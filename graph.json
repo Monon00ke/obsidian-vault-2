@@ -1,0 +1,438 @@
+{
+  "nodes": [
+    {
+      "id": "index",
+      "path": "index.md"
+    },
+    {
+      "id": "00 Functional Analysis MOC",
+      "path": "Functional Analysis/00 Functional Analysis MOC.md"
+    },
+    {
+      "id": "Probability Theory Notes",
+      "path": "Functional Analysis/Probability Theory Notes.md"
+    },
+    {
+      "id": "00 English MOC",
+      "path": "English/00 English MOC.md"
+    },
+    {
+      "id": "00 Grammar MOC",
+      "path": "English/Grammar/00 Grammar MOC.md"
+    },
+    {
+      "id": "Complex Object",
+      "path": "English/Grammar/Complex Object.md"
+    },
+    {
+      "id": "Present Perfect",
+      "path": "English/Grammar/Present Perfect.md"
+    },
+    {
+      "id": "Present Continuous",
+      "path": "English/Grammar/Present Continuous.md"
+    },
+    {
+      "id": "Articles",
+      "path": "English/Grammar/Articles.md"
+    },
+    {
+      "id": "Reported Speech",
+      "path": "English/Grammar/Reported Speech.md"
+    },
+    {
+      "id": "Past Perfect",
+      "path": "English/Grammar/Past Perfect.md"
+    },
+    {
+      "id": "Conditionals",
+      "path": "English/Grammar/Conditionals.md"
+    },
+    {
+      "id": "Present Simple",
+      "path": "English/Grammar/Present Simple.md"
+    },
+    {
+      "id": "Past Continuous",
+      "path": "English/Grammar/Past Continuous.md"
+    },
+    {
+      "id": "Present Perfect Continuous",
+      "path": "English/Grammar/Present Perfect Continuous.md"
+    },
+    {
+      "id": "Past Simple",
+      "path": "English/Grammar/Past Simple.md"
+    },
+    {
+      "id": "Passive Voice",
+      "path": "English/Grammar/Passive Voice.md"
+    },
+    {
+      "id": "00 Exam Prep MOC",
+      "path": "English/Exam Prep/00 Exam Prep MOC.md"
+    },
+    {
+      "id": "Exam Format & Rules",
+      "path": "English/Exam Prep/Exam Format & Rules.md"
+    },
+    {
+      "id": "Class Exercises - Air Pollution",
+      "path": "English/Exam Prep/Class Exercises - Air Pollution.md"
+    },
+    {
+      "id": "IELTS Writing - Essay",
+      "path": "English/IELTS/IELTS Writing - Essay.md"
+    },
+    {
+      "id": "IELTS Speaking - Phrases",
+      "path": "English/IELTS/IELTS Speaking - Phrases.md"
+    },
+    {
+      "id": "IELTS Writing - Formal Letter",
+      "path": "English/IELTS/IELTS Writing - Formal Letter.md"
+    },
+    {
+      "id": "IELTS Writing - Informal Letter",
+      "path": "English/IELTS/IELTS Writing - Informal Letter.md"
+    },
+    {
+      "id": "IELTS Speaking - Topics",
+      "path": "English/IELTS/IELTS Speaking - Topics.md"
+    },
+    {
+      "id": "00 IELTS MOC",
+      "path": "English/IELTS/00 IELTS MOC.md"
+    },
+    {
+      "id": "Topic 10 — Causes of Gossip",
+      "path": "English/IELTS/Speaking Topics/Topic 10 — Causes of Gossip.md"
+    },
+    {
+      "id": "Topic 03 — Gap Year",
+      "path": "English/IELTS/Speaking Topics/Topic 03 — Gap Year.md"
+    },
+    {
+      "id": "Topic 04 — Social Networks",
+      "path": "English/IELTS/Speaking Topics/Topic 04 — Social Networks.md"
+    },
+    {
+      "id": "Topic 07 — Advertising",
+      "path": "English/IELTS/Speaking Topics/Topic 07 — Advertising.md"
+    },
+    {
+      "id": "Topic 05-06 — Bloggers",
+      "path": "English/IELTS/Speaking Topics/Topic 05-06 — Bloggers.md"
+    },
+    {
+      "id": "Topic 11 — Shopping",
+      "path": "English/IELTS/Speaking Topics/Topic 11 — Shopping.md"
+    },
+    {
+      "id": "Topic 15 — Energy Sources",
+      "path": "English/IELTS/Speaking Topics/Topic 15 — Energy Sources.md"
+    },
+    {
+      "id": "Topic 17-18 — Job Choice",
+      "path": "English/IELTS/Speaking Topics/Topic 17-18 — Job Choice.md"
+    },
+    {
+      "id": "Topic 14 — Environment & Deforestation",
+      "path": "English/IELTS/Speaking Topics/Topic 14 — Environment & Deforestation.md"
+    },
+    {
+      "id": "Topic 12 — Online vs Offline Shopping",
+      "path": "English/IELTS/Speaking Topics/Topic 12 — Online vs Offline Shopping.md"
+    },
+    {
+      "id": "Topic 13 — Conscious Consumption",
+      "path": "English/IELTS/Speaking Topics/Topic 13 — Conscious Consumption.md"
+    },
+    {
+      "id": "Topic 08-09 — Gossip",
+      "path": "English/IELTS/Speaking Topics/Topic 08-09 — Gossip.md"
+    },
+    {
+      "id": "00 Vocabulary MOC",
+      "path": "English/Vocabulary/00 Vocabulary MOC.md"
+    },
+    {
+      "id": "B2-and-Below-All-Words",
+      "path": "English/Vocabulary/B2-and-Below-All-Words.md"
+    },
+    {
+      "id": "Waste-Types",
+      "path": "English/Vocabulary/Waste-Types.md"
+    },
+    {
+      "id": "Phrases-and-Collocations",
+      "path": "English/Vocabulary/Phrases-and-Collocations.md"
+    },
+    {
+      "id": "00 Math MOC",
+      "path": "Math/00 Math MOC.md"
+    },
+    {
+      "id": "03 HW - Correlation & Robustness",
+      "path": "Math/Math Statistics/03 HW - Correlation & Robustness.md"
+    },
+    {
+      "id": "07 HW - Nonparametric Tests",
+      "path": "Math/Math Statistics/07 HW - Nonparametric Tests.md"
+    },
+    {
+      "id": "02 HW - Variational Series",
+      "path": "Math/Math Statistics/02 HW - Variational Series.md"
+    },
+    {
+      "id": "09 HW - Contingency Tables",
+      "path": "Math/Math Statistics/09 HW - Contingency Tables.md"
+    },
+    {
+      "id": "00 Math Stat MOC",
+      "path": "Math/Math Statistics/00 Math Stat MOC.md"
+    },
+    {
+      "id": "01 HW - Distribution Series",
+      "path": "Math/Math Statistics/01 HW - Distribution Series.md"
+    },
+    {
+      "id": "08 HW - ANOVA",
+      "path": "Math/Math Statistics/08 HW - ANOVA.md"
+    },
+    {
+      "id": "20-21 HW - Regression Analysis",
+      "path": "Math/Math Statistics/20-21 HW - Regression Analysis.md"
+    },
+    {
+      "id": "10 HW - Spearman & Chi-Square",
+      "path": "Math/Math Statistics/10 HW - Spearman & Chi-Square.md"
+    },
+    {
+      "id": "05 HW - Hypothesis Testing",
+      "path": "Math/Math Statistics/05 HW - Hypothesis Testing.md"
+    },
+    {
+      "id": "00 Math Analysis MOC",
+      "path": "Math/Math Analysis/00 Math Analysis MOC.md"
+    },
+    {
+      "id": "Series Convergence",
+      "path": "Math/Math Analysis/Series Convergence.md"
+    },
+    {
+      "id": "10 Lab - Bibliography",
+      "path": "Scientific Work/10 Lab - Bibliography.md"
+    },
+    {
+      "id": "08 Lab - Elective Course Design",
+      "path": "Scientific Work/08 Lab - Elective Course Design.md"
+    },
+    {
+      "id": "00 Scientific Work MOC",
+      "path": "Scientific Work/00 Scientific Work MOC.md"
+    },
+    {
+      "id": "09 Lab - Resource Evaluation",
+      "path": "Scientific Work/09 Lab - Resource Evaluation.md"
+    },
+    {
+      "id": "07 Lab - AI Article Plan",
+      "path": "Scientific Work/07 Lab - AI Article Plan.md"
+    },
+    {
+      "id": "00 OS Labs MOC",
+      "path": "OS Labs/00 OS Labs MOC.md"
+    },
+    {
+      "id": "12-13 - Script Validation",
+      "path": "OS Labs/12-13 - Script Validation.md"
+    },
+    {
+      "id": "09-10 - Users and Permissions",
+      "path": "OS Labs/09-10 - Users and Permissions.md"
+    },
+    {
+      "id": "11 - Filesystem Pseudodisk",
+      "path": "OS Labs/11 - Filesystem Pseudodisk.md"
+    },
+    {
+      "id": "06 - File Signature Checker",
+      "path": "OS Labs/06 - File Signature Checker.md"
+    },
+    {
+      "id": "08 - sed and awk Exercises",
+      "path": "OS Labs/08 - sed and awk Exercises.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "00 Functional Analysis MOC",
+      "target": "Probability Theory Notes"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Present Simple"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Present Continuous"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Past Simple"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Past Continuous"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Past Perfect"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Present Perfect"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Present Perfect Continuous"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Passive Voice"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Conditionals"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Articles"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Complex Object"
+    },
+    {
+      "source": "00 Grammar MOC",
+      "target": "Reported Speech"
+    },
+    {
+      "source": "00 Exam Prep MOC",
+      "target": "Exam Format & Rules"
+    },
+    {
+      "source": "00 Exam Prep MOC",
+      "target": "Class Exercises - Air Pollution"
+    },
+    {
+      "source": "00 IELTS MOC",
+      "target": "IELTS Writing - Formal Letter"
+    },
+    {
+      "source": "00 IELTS MOC",
+      "target": "IELTS Writing - Informal Letter"
+    },
+    {
+      "source": "00 IELTS MOC",
+      "target": "IELTS Writing - Essay"
+    },
+    {
+      "source": "00 IELTS MOC",
+      "target": "IELTS Speaking - Phrases"
+    },
+    {
+      "source": "00 IELTS MOC",
+      "target": "IELTS Speaking - Topics"
+    },
+    {
+      "source": "00 Vocabulary MOC",
+      "target": "B2-and-Below-All-Words"
+    },
+    {
+      "source": "00 Vocabulary MOC",
+      "target": "Waste-Types"
+    },
+    {
+      "source": "00 Vocabulary MOC",
+      "target": "Phrases-and-Collocations"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "01 HW - Distribution Series"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "02 HW - Variational Series"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "03 HW - Correlation & Robustness"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "05 HW - Hypothesis Testing"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "07 HW - Nonparametric Tests"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "08 HW - ANOVA"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "09 HW - Contingency Tables"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "10 HW - Spearman & Chi-Square"
+    },
+    {
+      "source": "00 Math Stat MOC",
+      "target": "20-21 HW - Regression Analysis"
+    },
+    {
+      "source": "00 Math Analysis MOC",
+      "target": "Series Convergence"
+    },
+    {
+      "source": "00 Scientific Work MOC",
+      "target": "07 Lab - AI Article Plan"
+    },
+    {
+      "source": "00 Scientific Work MOC",
+      "target": "08 Lab - Elective Course Design"
+    },
+    {
+      "source": "00 Scientific Work MOC",
+      "target": "09 Lab - Resource Evaluation"
+    },
+    {
+      "source": "00 Scientific Work MOC",
+      "target": "10 Lab - Bibliography"
+    },
+    {
+      "source": "00 OS Labs MOC",
+      "target": "06 - File Signature Checker"
+    },
+    {
+      "source": "00 OS Labs MOC",
+      "target": "08 - sed and awk Exercises"
+    },
+    {
+      "source": "00 OS Labs MOC",
+      "target": "09-10 - Users and Permissions"
+    },
+    {
+      "source": "00 OS Labs MOC",
+      "target": "11 - Filesystem Pseudodisk"
+    },
+    {
+      "source": "00 OS Labs MOC",
+      "target": "12-13 - Script Validation"
+    }
+  ]
+}

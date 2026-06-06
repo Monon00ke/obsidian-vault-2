@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bamboo Toothbrush & Toothpaste Tablets</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.5/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.5/dist/theme/night.css">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+  .reveal { font-family: 'Inter', sans-serif; }
+  .reveal h1 { font-family: 'Inter', sans-serif; text-transform: none; font-size: 3.6em; font-weight: 800; letter-spacing: -0.03em; }
+  .reveal h2 { font-family: 'Inter', sans-serif; text-transform: none; font-size: 2.2em; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 0.1em 0; }
+  .reveal h3 { font-family: 'Inter', sans-serif; text-transform: none; font-size: 1em; font-weight: 600; margin: 0; }
+  .reveal p { margin: 0; }
+  .reveal ul { display: inline-block; text-align: left; margin: 0; }
+  .reveal li { margin: 0.15em 0; font-size: 0.75em; line-height: 1.4; }
+
+  .slide-title-gradient h1 {
+    background: linear-gradient(135deg, #6BF29E, #A8E6CF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .sub { color: #A8E6CF; font-weight: 300; font-size: 1.2em; margin-top: 0.5em; }
+  .meta { font-size: 0.75em; color: rgba(255,255,255,0.4); margin-top: 2em; }
+
+  .highlight-green { color: #6BF29E; }
+  .text-muted { color: rgba(255,255,255,0.5); }
+
+  .stat { font-size: 4em; font-weight: 800; color: #6BF29E; line-height: 1; }
+  .stat-label { font-size: 0.85em; color: rgba(255,255,255,0.8); }
+
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8em; margin-top: 0.2em; }
+  .grid-4 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 0.5em; margin-top: 0.2em; }
+
+  .card {
+    background: rgba(255,255,255,0.06); backdrop-filter: blur(8px);
+    border-radius: 12px; padding: 0.8em 1em;
+    border: 1px solid rgba(255,255,255,0.06);
+    text-align: left;
+  }
+  .card h3 { color: #6BF29E; font-size: 0.95em; margin-bottom: 0.2em; }
+  .card p, .card li { font-size: 0.7em; line-height: 1.45; color: rgba(255,255,255,0.75); }
+  .card ul { list-style: none; padding: 0; }
+  .card li::before { content: "✓ "; color: #6BF29E; }
+  .card .badge {
+    display: inline-block; font-size: 0.6em; color: #6BF29E;
+    background: rgba(107,242,158,0.15); border: 1px solid rgba(107,242,158,0.2);
+    padding: 0.05em 0.6em; border-radius: 12px; margin-bottom: 0.2em;
+  }
+
+  .box {
+    background: rgba(107,242,158,0.06); border: 1px solid rgba(107,242,158,0.12);
+    border-radius: 8px; padding: 0.5em 0.8em; font-size: 0.7em;
+    color: rgba(255,255,255,0.8);
+  }
+
+  .icon-lg { font-size: 2em; text-align: center; }
+
+  table { width: 100%; border-collapse: separate; border-spacing: 0; border-radius: 8px; overflow: hidden; font-size: 0.65em; }
+  table th { background: rgba(107,242,158,0.15); color: #6BF29E; font-weight: 600; padding: 0.3em 0.6em; }
+  table td { padding: 0.25em 0.6em; border-bottom: 1px solid rgba(255,255,255,0.04); color: rgba(255,255,255,0.8); }
+  table td:last-child { color: #6BF29E; font-weight: 500; }
+  table td:first-child { font-weight: 500; color: rgba(255,255,255,0.6); }
+
+  .flex-row { display: flex; gap: 0.5em; justify-content: center; flex-wrap: wrap; margin-top: 0.3em; }
+  .pill { background: rgba(255,255,255,0.05); border-radius: 16px; padding: 0.2em 0.8em; font-size: 0.65em; border: 1px solid rgba(255,255,255,0.06); }
+
+  .reveal .controls { color: #6BF29E; }
+  .reveal .progress { background: rgba(255,255,255,0.1); color: #6BF29E; }
+
+  @media (max-width: 768px) {
+    .reveal h1 { font-size: 2em; }
+    .reveal h2 { font-size: 1.4em; }
+    .stat { font-size: 2.8em; }
+    .grid-2 { grid-template-columns: 1fr; }
+    .grid-4 { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<!-- SLIDE 1: Title -->
+<section data-background="https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=1920&q=80"
+         data-background-gradient="linear-gradient(135deg, rgba(15,27,19,0.92), rgba(26,46,31,0.8))">
+  <div class="slide-title-gradient">
+    <h1>Bamboo Toothbrush<br>& Toothpaste Tablets</h1>
+    <p class="sub">Our eco-friendly product for soil and the environment</p>
+    <p class="meta">[Your Name] &bull; [Class] &bull; [Date]</p>
+  </div>
+</section>
+
+<!-- SLIDE 2: The Problem -->
+<section data-background="https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=1920&q=80"
+         data-background-gradient="linear-gradient(135deg, rgba(15,27,19,0.85), rgba(26,46,31,0.7))">
+  <div>
+    <h2>The Problem</h2>
+    <p class="text-muted" style="font-size:0.75em;margin-bottom:0.2em;">Plastic pollution is destroying our planet</p>
+    <div class="grid-2">
+      <div>
+        <div class="stat">1 billion</div>
+        <div class="stat-label">plastic toothbrushes thrown away every year</div>
+        <p style="font-size:0.65em;color:rgba(255,255,255,0.45);margin-top:0.3em;">They go to landfill and stay there for <span class="highlight-green">400+ years</span></p>
+        <div class="box" style="margin-top:0.4em;">
+          <p style="font-size:0.8em;line-height:1.5;">
+            Plastic pollutes the <span class="highlight-green">soil</span>, kills useful bacteria, and makes land bad for plants.<br>
+            It also hurts <span class="highlight-green">animals</span> and the whole environment.
+          </p>
+        </div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:0.3em;">
+        <div class="card" style="text-align:center;">
+          <p class="icon-lg">🌍</p>
+          <p style="font-size:0.75em;color:rgba(255,255,255,0.7);">40% of the world has no access to clean water or sanitation <span class="highlight-green">(UN)</span></p>
+        </div>
+        <div class="card" style="text-align:center;">
+          <p class="icon-lg">💀</p>
+          <p style="font-size:0.75em;color:rgba(255,255,255,0.7);">Water-borne diseases account for <span class="highlight-green">80%</span> of infections in the developing world</p>
+        </div>
+        <div class="card" style="text-align:center;">
+          <p class="icon-lg">📈</p>
+          <p style="font-size:0.75em;color:rgba(255,255,255,0.7);">Worldwide water demand is <span class="highlight-green">doubling every 21 years</span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SLIDE 3: Our Product + How It Works -->
+<section data-background="https://images.unsplash.com/photo-1588377461715-4010ab1b5ecb?w=1920&q=80"
+         data-background-gradient="linear-gradient(135deg, rgba(15,27,19,0.88), rgba(26,46,31,0.7))">
+  <div>
+    <h2>Our Product</h2>
+    <p class="text-muted" style="font-size:0.75em;margin-bottom:0.2em;">Simple everyday items — now without plastic</p>
+    <div class="grid-2">
+      <div class="card">
+        <p style="font-size:1.5em;text-align:center;">🪥</p>
+        <span class="badge">Natural Bamboo</span>
+        <h3>Bamboo Toothbrush</h3>
+        <ul>
+          <li>Made from fast-growing bamboo — no chemicals needed</li>
+          <li>No plastic in the handle, biodegradable bristles</li>
+          <li>Compostable: disappears in 6–24 months</li>
+          <li>Turns into healthy soil, zero waste left behind</li>
+        </ul>
+      </div>
+      <div class="card">
+        <p style="font-size:1.5em;text-align:center;">🧴</p>
+        <span class="badge">Zero Plastic</span>
+        <h3>Toothpaste Tablets</h3>
+        <ul>
+          <li>No plastic tube — just small tablets in a glass jar</li>
+          <li>Natural formula: baking soda, coconut oil, mint</li>
+          <li>Zero waste packaging, no chemicals or preservatives</li>
+          <li>Easy to use: chew the tablet, brush with a wet brush</li>
+        </ul>
+      </div>
+    </div>
+    <div class="box" style="margin-top:0.3em;text-align:center;">
+      <p style="font-size:0.8em;">♻️ <span class="highlight-green">Full cycle:</span> Use → Compost → Disappear in 6–24 months → Become healthy soil → Grow new bamboo</p>
+    </div>
+  </div>
+</section>
+
+<!-- SLIDE 4: Comparison + Opinion -->
+<section data-background="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1920&q=80"
+         data-background-gradient="linear-gradient(135deg, rgba(15,27,19,0.88), rgba(26,46,31,0.7))">
+  <div>
+    <h2>Why It Matters</h2>
+    <div class="grid-2">
+      <div>
+        <div class="card" style="margin-bottom:0.3em;">
+          <h3>✅ Pros</h3>
+          <div class="grid-2" style="gap:0.3em;margin-top:0.2em;">
+            <div><p>🌱 <strong style="color:#6BF29E;">Helps soil</strong><br><span style="font-size:0.65em;">Becomes compost</span></p></div>
+            <div><p>🎋 <strong style="color:#6BF29E;">Natural bamboo</strong><br><span style="font-size:0.65em;">Grows fast, no chemicals</span></p></div>
+            <div><p>♻️ <strong style="color:#6BF29E;">Zero plastic</strong><br><span style="font-size:0.65em;">No waste left behind</span></p></div>
+            <div><p>🌍 <strong style="color:#6BF29E;">Eco-friendly</strong><br><span style="font-size:0.65em;">Lower carbon footprint</span></p></div>
+          </div>
+        </div>
+        <div class="card">
+          <h3 style="color:#E57373;">❌ Cons</h3>
+          <ul style="list-style:none;padding:0;font-size:0.7em;">
+            <li style="color:rgba(255,255,255,0.7);margin:0.1em 0;">✗ Costs 2–3 times more than plastic</li>
+            <li style="color:rgba(255,255,255,0.7);margin:0.1em 0;">✗ Need time to get used to tablets</li>
+            <li style="color:rgba(255,255,255,0.7);margin:0.1em 0;">✗ Not widely available in all shops</li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div class="card" style="margin-bottom:0.3em;">
+          <h3>📊 Comparison</h3>
+          <table>
+            <tr><th></th><th>Normal Plastic</th><th>Bamboo + Tablets</th></tr>
+            <tr><td>Time in landfill</td><td>400+ years</td><td>6–24 months</td></tr>
+            <tr><td>Effect on soil</td><td>Pollutes</td><td>Helps (compost)</td></tr>
+            <tr><td>Plastic waste</td><td>Yes</td><td>Almost none</td></tr>
+            <tr><td>Price for 1 year</td><td>~300 rubles</td><td>~700 rubles</td></tr>
+          </table>
+        </div>
+        <div class="box" style="text-align:left;">
+          <p style="font-size:0.75em;line-height:1.5;font-style:italic;color:rgba(255,255,255,0.85);">
+            "We think this is an easy way to help the environment. It is not perfect, but small changes matter. If many people switch, we will have cleaner soil and better nature."<br>
+            <span style="color:#6BF29E;font-style:normal;font-weight:500;">— Our opinion</span>
+          </p>
+        </div>
+        <div class="flex-row">
+          <span class="pill">🟢 Buy one bamboo toothbrush</span>
+          <span class="pill">🟢 Tell friends and family</span>
+          <span class="pill">🟢 Start with one small change</span>
+        </div>
+        <p style="font-size:0.9em;color:#6BF29E;font-weight:600;margin-top:0.3em;">
+          ♻️ Question: Would you try it?
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.5/dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true, controls: true, progress: false, center: true,
+    transition: 'slide', backgroundTransition: 'fade',
+    width: 1100, height: 650, margin: 0.04,
+    keyboard: { 37: 'prev', 39: 'next' }
+  });
+</script>
+</body>
+</html>

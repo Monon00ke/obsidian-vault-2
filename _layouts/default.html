@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 2rem; background: #fafafa; }
+        header { text-align: center; margin-bottom: 3rem; padding-bottom: 1rem; border-bottom: 2px solid #e1e4e8; }
+        header h1 { font-size: 2rem; color: #24292e; }
+        header p { color: #586069; margin-top: 0.5rem; }
+        .folder { margin-bottom: 2rem; }
+        .folder h2 { font-size: 1.4rem; color: #0366d6; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #e1e4e8; }
+        .folder ul { list-style: none; }
+        .folder li { margin: 0.5rem 0; }
+        .folder a { color: #0366d6; text-decoration: none; padding: 0.5rem 1rem; display: block; border-radius: 6px; transition: background 0.2s; }
+        .folder a:hover { background: #f1f8ff; }
+        .content { background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .content h1 { margin-bottom: 1rem; }
+        .content h2 { margin: 1.5rem 0 1rem; }
+        .content p { margin-bottom: 1rem; }
+        .content code { background: #f6f8fa; padding: 0.2rem 0.4rem; border-radius: 3px; font-size: 0.9em; }
+        .content pre { background: #f6f8fa; padding: 1rem; border-radius: 6px; overflow-x: auto; }
+        .content blockquote { border-left: 4px solid #0366d6; padding-left: 1rem; color: #586069; margin: 1rem 0; }
+        .content img { max-width: 100%; border-radius: 8px; }
+        .back-link { display: inline-block; margin-bottom: 1rem; color: #0366d6; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        footer { text-align: center; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e1e4e8; color: #586069; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    {{ content }}
+    <footer>
+        <p>Monon00ke's Digital Garden &copy; 2026</p>
+    </footer>
+</body>
+</html>

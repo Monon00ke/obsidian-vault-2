@@ -1,0 +1,13 @@
+title: "Monon00ke's Digital Garden"
+description: "My Obsidian Vault - Notes, Math, English & More"
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
